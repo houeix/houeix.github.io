@@ -21,11 +21,10 @@ redirect_from:
 </div>
 
 <div class="profile-info">
-  I am on the <strong>2024-25 Academic Job Market</strong>.<br>
+   <strong>Job Market Update:</strong> I'll be starting as an Assistant Professor at <a href="https://business.columbia.edu/faculty/divisions/economics">Columbia Business School</a> (Economics Division) in 2027 after the <a href="https://histecon.fas.harvard.edu/ehppf/index.html">Prize Fellowship</a> at the Center for History and Economics at Harvard and at J-PAL at MIT.<br>
   <a href="https://economics.mit.edu/sites/default/files/2024-11/CV_jmp_houeix_4.pdf">[Access my CV here]</a> - 
   <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
 </div>
-
 
 ## Research Papers
 
