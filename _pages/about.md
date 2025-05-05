@@ -68,33 +68,6 @@ redirect_from:
         </div>
     </details>
 
-    
-## Selected Work in Progress
-
-- Internal Migration, Remittances, and Networks: Evidence from Senegal (with <a href="https://www.edward-wiles.com">Edward Wiles</a>)
-   <details>
-        <summary>Abstract</summary> 
-        <div class="abstract-content">
-            <p>We explore the relationship between internal migration, remittances, and financial and social networks in lower-income contexts, with a focus on Senegal. To establish new facts and causal evidence, we construct a unique dataset that links migration patterns to both remittance flows and social networks covering the near universe of Senegal's adult population, based on real-time GPS tracking of personal and business transactions and anonymized phone contact directories from the country’s largest mobile money provider. We use this dataset to document patterns of migration and remittance flows to a high degree of spatial and temporal precision, and to explore how financial and social networks affect—and are affected by—these patterns, especially in response to economic or environmental shocks. </p>
-        </div>
-    </details>
-
-- Building Trust Through Digital Contracting: Evidence from Senegal
-  <details>
-        <summary>Abstract</summary> 
-        <div class="abstract-content">
-            <p>Trust barriers have long constrained trade among businesses, especially in contexts with weak contract enforcement. This project explores the potential of digital contracts—self-executing agreements embedded in code with predefined terms—to address these challenges. In collaboration with Senegal’s largest payment company, I will pilot new digital contract designs guided by reputation-building models, including systems that track and share suppliers’ transaction histories. By enabling suppliers to signal reliability and allowing buyers to update their beliefs about supplier quality, these tools aim to foster trust and improve transaction efficiency. The study will evaluate the impact of digital contracts on key trade outcomes, such as transaction volumes, relationship duration, and overall business growth. </p>
-        </div>
-    </details>
-
-- Digitalization of Local Tax Collection in Côte d’Ivoire (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a>)
-   <details>
-        <summary>Abstract</summary> 
-        <div class="abstract-content">
-            <p>Low tax capacity hampers the ability of municipalities in Côte d’Ivoire, as in many other countries, to provide quality public services for their populations. We study the impacts of the nationwide rollout of a digital tax system, through which municipalities will move to entirely cash-less tax collection. We explore the impact on total tax revenue, size of the tax base, spending (including public good provision), and local government accountability.</p>
-        </div>
-    </details>
-
   
 ## Reports
 - [Asylum seekers in the European Union: building evidence to inform policy making](http://documents.worldbank.org/curated/en/832501530296269142/Asylum-seekers-in-the-European-Union-building-evidence-to-inform-policy-making) (with Mohamed Abdel Jelil, Paul Andres Corral, Anais Dahmani, Maria Davalos, Giorgia Demarchi, Neslihan Demirel, Quy-Toan Do, Rema Hanna, Sara Lenehan, and Harriet Mugera), ***World Bank Flagship Report***, 2018.
