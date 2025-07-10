@@ -22,7 +22,7 @@ redirect_from:
 
 <div class="profile-info">
    <strong>Job Market Update:</strong> I'll be starting as an Assistant Professor at <a href="https://business.columbia.edu/faculty/divisions/economics/people">Columbia Business School</a> (Economics Division) in 2027 after the <a href="https://histecon.fas.harvard.edu/ehppf/index.html">Prize Fellowship</a> at the Center for History and Economics at Harvard and at J-PAL at MIT.<br>
-  <a href="https://deivyhoueix.com/files/DeivyHoueix_CV_June25.pdf">[Access my CV here]</a> - 
+  <a href="https://deivyhoueix.com/files/DeivyHoueix_CV_July25.pdf">[Access my CV here]</a> - 
   <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
 </div>
 
