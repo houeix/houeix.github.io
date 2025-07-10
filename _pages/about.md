@@ -28,7 +28,7 @@ redirect_from:
 
 ## Research Papers
 
-1. <a href="https://drive.google.com/file/d/1xPuviUJ2E1m4keNPSSiSYVsBQd7-caCq/view?usp=sharing">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a>, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">_RFI_</a>, <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-digital-potential--the-double-edged-sword-of-observabi">_World Bank Blog_</a>
+- <a href="https://drive.google.com/file/d/1xPuviUJ2E1m4keNPSSiSYVsBQd7-caCq/view?usp=sharing">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a>, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">_RFI_</a>, <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-digital-potential--the-double-edged-sword-of-observabi">_World Bank Blog_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -36,7 +36,7 @@ redirect_from:
         </div>
     </details>
 
-2. <a href="https://drive.google.com/file/d/14eSWT8WUukf5fH95gLj_v3YNxn_Ts-OH/view">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
+- <a href="https://drive.google.com/file/d/14eSWT8WUukf5fH95gLj_v3YNxn_Ts-OH/view">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
       <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -44,7 +44,7 @@ redirect_from:
         </div>
     </details>
 
-3. <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>), _Media Coverage_: <a href="https://blogs.worldbank.org/en/impactevaluations/can-social-media-alleviate-search-and-trust-frictions-in-interna">_World Bank Blog_</a>
+- <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>), _Media Coverage_: <a href="https://blogs.worldbank.org/en/impactevaluations/can-social-media-alleviate-search-and-trust-frictions-in-interna">_World Bank Blog_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -52,7 +52,7 @@ redirect_from:
         </div>
     </details>
 
-4. <a href="https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view?usp=sharing">Financial Inclusion and Rural Electrification: Evidence from Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga</a>, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>)
+- <a href="https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view?usp=sharing">Financial Inclusion and Rural Electrification: Evidence from Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga</a>, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>)
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -60,7 +60,7 @@ redirect_from:
         </div>
     </details>
     
-5. <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence</a> (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a> and <a href="https://web.stanford.edu/~fafchamp/">Marcel Fafchamps</a>), Revised August 2024 for ***Quantitative Economics***
+- <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence</a> (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a> and <a href="https://web.stanford.edu/~fafchamp/">Marcel Fafchamps</a>), Revised August 2024 for ***Quantitative Economics***
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
