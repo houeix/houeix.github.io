@@ -40,7 +40,7 @@ redirect_from:
       <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions.</p>
+            <p>I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions. </p>
         </div>
     </details>
 
