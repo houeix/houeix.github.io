@@ -26,9 +26,10 @@ redirect_from:
   <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
 </div>
 
+
 ## Research Papers
 
-- <a href="https://drive.google.com/file/d/1xPuviUJ2E1m4keNPSSiSYVsBQd7-caCq/view?usp=sharing">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a>, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">_RFI_</a>, <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-digital-potential--the-double-edged-sword-of-observabi">_World Bank Blog_</a>
+- <a href="https://deivyhoueix.com/files/jmp_houeix.pdf">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a>, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">_RFI_</a>, <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-digital-potential--the-double-edged-sword-of-observabi">_World Bank Blog_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -36,7 +37,7 @@ redirect_from:
         </div>
     </details>
 
-- <a href="https://drive.google.com/file/d/14eSWT8WUukf5fH95gLj_v3YNxn_Ts-OH/view">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
+- <a href="[https://deivyhoueix.com/files/TechnologyDiffusionNetwork.pdf">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
