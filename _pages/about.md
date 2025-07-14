@@ -21,7 +21,7 @@ redirect_from:
 </div>
 
 <div class="profile-info">
-   <strong>Job Market Update:</strong> I'll be an Assistant Professor at <a href="https://business.columbia.edu/faculty/divisions/economics/people">Columbia Business School</a> (Economics Division) in 2027 after the <a href="https://histecon.fas.harvard.edu/ehppf/index.html">Prize Fellowship</a> at the Center for History and Economics at Harvard and at J-PAL at MIT.<br>
+   <strong>Job Market Update:</strong> I'll be an Assistant Professor of Economics at <a href="https://business.columbia.edu/faculty/divisions/economics/people">Columbia Business School</a> in 2027 after the <a href="https://histecon.fas.harvard.edu/ehppf/index.html">Prize Fellowship</a> at the Center for History and Economics at Harvard and at J-PAL at MIT.<br>
   <a href="https://deivyhoueix.com/files/DeivyHoueix_CV_July25.pdf">[Access my CV here]</a> - 
   <a href="mailto:deivyhoueix@fas.harvard.edu">deivyhoueix@fas.harvard.edu</a>
 </div>
