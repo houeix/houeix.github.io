@@ -37,12 +37,13 @@ redirect_from:
     </details>
 
 - <a href="https://drive.google.com/file/d/14eSWT8WUukf5fH95gLj_v3YNxn_Ts-OH/view">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
-      <details>
+   <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions. </p>
+            <p>I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions.</p>
         </div>
     </details>
+    
 
 - <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>), _Media Coverage_: <a href="https://blogs.worldbank.org/en/impactevaluations/can-social-media-alleviate-search-and-trust-frictions-in-interna">_World Bank Blog_</a>
    <details>
