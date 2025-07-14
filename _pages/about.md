@@ -37,7 +37,7 @@ redirect_from:
         </div>
     </details>
 
-- <a href="[https://deivyhoueix.com/files/TechnologyDiffusionNetwork.pdf">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
+- <a href="https://deivyhoueix.com/files/TechnologyDiffusionNetwork.pdf">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
