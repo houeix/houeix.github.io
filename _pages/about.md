@@ -21,13 +21,10 @@ redirect_from:
     <p>Over the past eight years, I have conducted research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.</p>
   </div>
 </div>
-
 <div class="profile-info">
   <a href="https://deivyhoueix.com/files/DeivyHoueix_CV_July25.pdf">[Access my CV here]</a> – 
   <a href="mailto:deivyhoueix@fas.harvard.edu">deivyhoueix@fas.harvard.edu</a>
 </div>
-
-
 
 ## Research Papers
 
