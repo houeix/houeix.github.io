@@ -14,7 +14,7 @@ redirect_from:
     <p class="pronunciation"><small>My name is pronounced: Day-vee Wex</small></p> 
   </div>
   <div class="profile-text">
-    <p>Welcome! I received my PhD in Economics from <strong>Massachusetts Institute of Technology</strong> in May 2025. I am <a href="https://histecon.fas.harvard.edu/ehppf/index.html">Prize Fellow</a> at the Center for History and Economics at Harvard University. In 2027, I'll be join <a href="https://business.columbia.edu/faculty/divisions/economics/people">Columbia Business School</a> as an Assistant Professor of Economics.<br> 
+    <p>Welcome! I received my PhD in Economics from MIT in May 2025. I am currently <a href="https://histecon.fas.harvard.edu/ehppf/index.html">Prize Fellow</a> at the Center for History and Economics at Harvard University. In 2027, I'll be join <a href="https://business.columbia.edu/faculty/divisions/economics/people">Columbia Business School</a> as an Assistant Professor of Economics.<br> 
        <p>My primary field is <strong>Development Economics</strong>, with secondary interests in <strong>Organizational Economics</strong>. </p>
       <p>My research focuses on technology and firms in lower-income countries, particularly in West Africa. I explore how digital technologies reshape economic relationships and contract structures within and between firms, uncovering some key drivers and barriers to their adoption. </p>
     <p>Over the past eight years, I have conducted research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo. </p>
