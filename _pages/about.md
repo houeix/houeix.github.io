@@ -26,7 +26,7 @@ redirect_from:
   <a href="mailto:deivyhoueix@fas.harvard.edu">deivyhoueix@fas.harvard.edu</a>
 </div>
 
-## Research Papers
+## Working Papers
 
 - <a href="https://deivyhoueix.com/files/jmp_houeix.pdf">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a>, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">_RFI_</a>, <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-digital-potential--the-double-edged-sword-of-observabi">_World Bank Blog_</a>, <a href="https://www.jeuneafrique.com/1707259/economie-entreprises/mobile-money-la-transparence-promise-peut-freiner-son-adoption-en-afrique/">_Jeune Afrique_</a>
    <details>
