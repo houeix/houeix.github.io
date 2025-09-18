@@ -22,7 +22,7 @@ redirect_from:
   </div>
 </div>
 <div class="profile-info">
-  <a href="https://deivyhoueix.com/files/DeivyHoueix_CV_July25.pdf">[Access my CV here]</a> – 
+  <a href="https://deivyhoueix.com/files/DeivyHoueix_CV.pdf">[Access my CV here]</a> – 
   <a href="mailto:deivyhoueix@fas.harvard.edu">deivyhoueix@fas.harvard.edu</a>
 </div>
 
