@@ -32,15 +32,7 @@ redirect_from:
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>Digital technologies promise large productivity gains, but they also embed data observability as a byproduct of digitalization. Observability can be a double-edged sword: it reduces information frictions and raises efficiency, yet it threatens agents’ informational rents and can deter adoption. I study this trade-off through two field experiments in Senegal's taxi industry, conducted over two years in partnership with the country’s largest payment company. In the first experiment, I randomize access to digital payments for drivers (employees) and transaction observability for taxi owners (employers). Digital payments cut drivers’ cash-related costs by about half but also serve as effective monitoring tools for owners. Observability raises driver effort, contract efficiency, and relationship duration. Yet it also deters adoption: about 50% of drivers—the poorest and lowest-performing—refuse to adopt when transactions are observable. A second experiment confirms this barrier, showing that adoption nearly doubles when observability is removed. A relational contract framework interprets these results and, combined with the experimental variation, quantifies the welfare effects of counterfactual policies. Counterfactual analysis shows that removing observability increases total welfare: it maintains moral hazard but broadens adoption—an approach ultimately implemented by the partner company. These findings highlight that observability, an inherent feature of digitalization, magnifies efficiency gains for adopting firms but also limits diffusion.</p>
-        </div>
-    </details>
-
-- <a href="https://deivyhoueix.com/files/TechnologyDiffusionNetwork.pdf">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
-   <details>
-        <summary>Abstract</summary> 
-        <div class="abstract-content">
-            <p>I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions.</p>
+            <p>Digital technologies promise large productivity gains but inherently generate data observability. I show that this feature is a double-edged sword: it reduces information frictions and raises efficiency, yet it threatens agents' informational rents and deters adoption. Two field experiments in Senegal's taxi industry reveal this trade-off. When transactions are observable, owners monitor effectively and driver effort rises, but adoption falls---especially among poorer, low-performing drivers. Removing observability nearly doubles adoption and, in a relational contract framework, increases total welfare. The findings highlight how the very feature that enhances efficiency of digital tools can also hinder their diffusion.</p>
         </div>
     </details>
     
@@ -53,6 +45,15 @@ redirect_from:
         </div>
     </details>
 
+- Nationwide Diffusion of Technology Within Firms’ Social Networks [_New version coming soon!_], _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
+   <details>
+        <summary>Abstract</summary> 
+        <div class="abstract-content">
+            <p>I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions.</p>
+        </div>
+    </details>
+
+    
 - <a href="https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view?usp=sharing">Financial Inclusion and Rural Electrification: Evidence from Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga</a>, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>)
    <details>
         <summary>Abstract</summary> 
