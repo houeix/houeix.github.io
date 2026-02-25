@@ -32,7 +32,7 @@ redirect_from:
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>Digital technologies promise large productivity gains but inherently generate data observability. I show that this feature is a double-edged sword: it reduces information frictions and raises efficiency, yet it threatens agents' informational rents and deters adoption. Two field experiments in Senegal's taxi industry reveal this trade-off. When transactions are observable, owners monitor effectively and driver effort rises, but adoption falls---especially among poorer, low-performing drivers. Removing observability nearly doubles adoption and, in a relational contract framework, increases total welfare. The findings highlight how the very feature that enhances efficiency of digital tools can also hinder their diffusion.</p>
+            <p>Digital technologies promise large productivity gains, but generate data that can be made observable to others at low cost. I show that this embedded observability can be a double-edged sword: while it reduces information frictions and raises efficiency, it also threatens agents' informational rents and deters adoption. Two field experiments in Senegal's taxi industry illustrate this trade-off. When transactions are observable, owners monitor effectively and driver effort rises, but adoption falls---especially among poorer, low-performing drivers. Removing observability nearly doubles adoption and, in a relational contract framework, increases total welfare. The findings highlight how the very feature that enhances the efficiency of digital tools can also hinder their diffusion.</p>
         </div>
     </details>
     
