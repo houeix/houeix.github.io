@@ -39,7 +39,7 @@ redirect_from:
     </details>
     
 
-- <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>), <br> _Media Coverage_: <a href="https://blogs.worldbank.org/en/impactevaluations/can-social-media-alleviate-search-and-trust-frictions-in-interna">_World Bank Blog_</a>
+- <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>) <br> _Media Coverage_: <a href="https://blogs.worldbank.org/en/impactevaluations/can-social-media-alleviate-search-and-trust-frictions-in-interna">_World Bank Blog_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -47,7 +47,7 @@ redirect_from:
         </div>
     </details>
 
-- Nationwide Diffusion of Technology Within Firms’ Social Networks [_New version coming soon!_],<br>  _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
+- Nationwide Diffusion of Technology Within Firms’ Social Networks [_New version coming soon!_] <br>  _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
