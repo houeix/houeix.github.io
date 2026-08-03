@@ -64,7 +64,7 @@ redirect_from:
         </div>
     </details>
     
-- <a href="https://houeix.github.io/files/PeerRanking.pdf">Aggregating Partial Rankings from Neighbors: Methodology and Empirical Evidence</a> (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a> and <a href="https://web.stanford.edu/~fafchamp/">Marcel Fafchamps</a>), R&R ***Quantitative Economics***,
+- <a href="https://houeix.github.io/files/PeerRanking.pdf">Aggregating Partial Rankings from Neighbors: Methodology and Empirical Evidence</a> (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a> and <a href="https://web.stanford.edu/~fafchamp/">Marcel Fafchamps</a>), R&R ***Quantitative Economics***
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
