@@ -48,12 +48,6 @@ redirect_from:
     </details>
 
 - Nationwide Diffusion of Technology: Experimental Evidence from Multiple Networks [_Coming soon!_] <br>  _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
-   <details>
-        <summary>Abstract</summary> 
-        <div class="abstract-content">
-            <p>To what extent and why do firms benefit from locating near one another? I separate the relationships that proximity bundles by randomizing access to a digital payment technology at the taxi-business level among 2,196 surveyed taxi owners and drivers in Dakar, Senegal. I trace its spread through new network data covering most informal firms in the country: social ties (hashed phone-contact directories), location (agent GPS pings), and shared customers (mobile money transaction ledgers). Each network carries different mechanisms. Social ties, including weak ones, transmit knowledge and raise adoption across industries and cities. Co-location reduces adoption through a sharp local competitive force. Shared customers generate strategic complementarities, raising adoption even between firms with no social connection. Because proximity bundles countervailing relationships, closeness can appear beneficial in some settings and harmful in others. A structural counterfactual exercise disciplined by the reduced-form estimates predicts that targeting the businesses with the largest phone-network reach raises induced adoption by about 57% relative to random. Concentrating treatment at garages, a natural targeting rule, does worse than random.</p>
-        </div>
-    </details>
 
     
 - <a href="https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view?usp=sharing">Financial Inclusion and Rural Electrification: Evidence from Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga</a>, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>)
