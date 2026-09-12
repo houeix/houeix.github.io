@@ -47,16 +47,16 @@ redirect_from:
         </div>
     </details>
 
-- Nationwide Diffusion of Technology: Experimental Evidence from Multiple Networks [_Coming soon!_] <br>  _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
-
-    
-- <a href="https://www.dropbox.com/scl/fi/izul5wcrcbmhlpcb9gfyp/togo_payment.pdf?rlkey=qvgdq9ojnbku7kxkzv9sku2ft&st=wcsckc86&raw=1">Payment Infrastructure and Policy Effectiveness: Evidence from Public Programs in Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga</a>, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>)
+- <a href="https://www.dropbox.com/scl/fi/izul5wcrcbmhlpcb9gfyp/togo_payment.pdf?rlkey=qvgdq9ojnbku7kxkzv9sku2ft&st=wcsckc86&raw=1">Payment Infrastructure and Policy Effectiveness: Evidence from Public Programs in Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga</a>, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>) [_New version!_]
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
             <p>Public programs in lower-income countries are increasingly delivered through digital payments, but rural economic life still runs on cash. Households must convert cash into digital money to pay, or a digital transfer into cash to spend it, and either conversion requires a trip to an agent. We show that this last-mile problem is costly enough to weaken policy effectiveness. In rural Togo, the transport cost alone of reaching an agent amounts to 19% of what the median customer pays each month for pay-as-you-go solar electricity. Exploiting the staggered rollout of a nationwide solar subsidy, we find its effect on adoption is nearly three times larger where an agent is within walking distance. A subsequent government-led agent expansion initiative raises adoption by as much as this differential, consistent with complementarity and isolating the role of payment access from potential confounders. The same friction, now on the cash-out side, attenuates the effects of Togo's emergency cash transfers, delivered digitally through the same agents. Since operators place agents by transaction volume and public programs often target underserved, low-volume areas, this wedge between private and social returns suggests a role for public investment in payment infrastructure.</p>
         </div>
     </details>
+
+- Nationwide Diffusion of Technology: Experimental Evidence from Multiple Networks [_Coming soon!_] <br>  _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">_Liberation_</a>
+
     
 - <a href="https://houeix.github.io/files/PeerRanking.pdf">Aggregating Partial Rankings from Neighbors: Methodology and Empirical Evidence</a> (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a> and <a href="https://web.stanford.edu/~fafchamp/">Marcel Fafchamps</a>), R&R ***Quantitative Economics***
    <details>
